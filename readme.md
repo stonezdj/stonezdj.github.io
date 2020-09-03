@@ -1,6 +1,4 @@
-# 使用说明
-
-使用Windows提交
+# Usage
 
 This is another commit!
 
